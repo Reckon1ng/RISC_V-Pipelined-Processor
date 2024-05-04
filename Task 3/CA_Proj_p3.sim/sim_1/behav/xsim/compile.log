@@ -1,0 +1,31 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sources_1/new/RiscV_Pipelined_Processor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-311] analyzing module alu_64
+INFO: [VRFC 10-2458] undeclared symbol ZERO, assumed default net type wire [C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sources_1/new/RiscV_Pipelined_Processor.v:28]
+INFO: [VRFC 10-311] analyzing module ALU_Control
+INFO: [VRFC 10-311] analyzing module Branch_Control
+INFO: [VRFC 10-311] analyzing module Control_Unit
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-311] analyzing module EX_MEM
+INFO: [VRFC 10-311] analyzing module Forwarding_Unit
+INFO: [VRFC 10-311] analyzing module Hazard_Detection
+INFO: [VRFC 10-311] analyzing module ID_EX
+INFO: [VRFC 10-311] analyzing module IF_ID
+INFO: [VRFC 10-311] analyzing module data_extractor
+INFO: [VRFC 10-311] analyzing module Instruction_Parser
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-311] analyzing module MEM_WB
+INFO: [VRFC 10-311] analyzing module mux2x1
+INFO: [VRFC 10-311] analyzing module mux3x1
+INFO: [VRFC 10-311] analyzing module Program_Counter
+INFO: [VRFC 10-311] analyzing module registerFile
+INFO: [VRFC 10-311] analyzing module RISC_V_Processor
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'r1' is not allowed [C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sources_1/new/RiscV_Pipelined_Processor.v:916]
+INFO: [VRFC 10-2458] undeclared symbol MemtoReg_IDEXin, assumed default net type wire [C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sources_1/new/RiscV_Pipelined_Processor.v:1087]
+INFO: [VRFC 10-2458] undeclared symbol RegWrite_IDEXin, assumed default net type wire [C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sources_1/new/RiscV_Pipelined_Processor.v:1088]
+INFO: [VRFC 10-2458] undeclared symbol Branch_IDEXin, assumed default net type wire [C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sources_1/new/RiscV_Pipelined_Processor.v:1089]
+INFO: [VRFC 10-2458] undeclared symbol MemWrite_IDEXin, assumed default net type wire [C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sources_1/new/RiscV_Pipelined_Processor.v:1090]
+INFO: [VRFC 10-2458] undeclared symbol MemRead_IDEXin, assumed default net type wire [C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sources_1/new/RiscV_Pipelined_Processor.v:1091]
+INFO: [VRFC 10-2458] undeclared symbol ALUSrc_IDEXin, assumed default net type wire [C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sources_1/new/RiscV_Pipelined_Processor.v:1092]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Salman Adnan/HU Files/4th Semester/CA - CE CS 321 330 L4 T3/Project/CA_Project_Final/CA_Proj_p3/CA_Proj_p3.srcs/sim_1/new/tbproc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

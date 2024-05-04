@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 19 12:27:35 2023
+# Process ID: 1100
+# Current directory: C:/Users/FATTANI COMPUTERS/CA_Proj_p3/CA_Proj_p3.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/FATTANI COMPUTERS/CA_Proj_p3/CA_Proj_p3.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/FATTANI COMPUTERS/CA_Proj_p3/CA_Proj_p3.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/FATTANI COMPUTERS/CA_Proj_p3/CA_Proj_p3.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/FATTANI -notrace
+invalid command name "[36DC:53AC][2023-08-18T13:44:47]i001:"
+    while executing
+"[36DC:53AC][2023-08-18T13:44:47]i001: Burn v3.10.4.4718, Windows v10.0 (Build 19045: Service Pack 0), path: C:\Windows\Temp\{5908B1F6-40AC-4C30-9485-0..."
+    (file "C:/Users/FATTANI" line 1)
+INFO: [Common 17-206] Exiting Webtalk at Tue Dec 19 12:27:35 2023...
